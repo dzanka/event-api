@@ -1,0 +1,1 @@
+export const SET_IS_AUTHORIZED = "SET_IS_AUTHORIZED";
