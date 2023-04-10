@@ -1,3 +1,7 @@
+### About
+This is basic example setup for Google Calendar API usage in React. It will allow you to authenticate and display list of events.
+
+### How to setup
 Environment variables are to be set in .env.local, see exact values below, in .env should be just empty variables, put in .env.local values regarding your Google Calendar API setup according to the docs here https://developers.google.com/calendar/api/quickstart/js
 
 To install everything
